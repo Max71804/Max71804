@@ -19,7 +19,7 @@
 - :bulb: Occasionally I do participate in **Hackathons**
 - 👨 Know more about me at [Sourcerer](https://sourcerer.io/Max71804) 
 - 🌐 Visit my [porfolio website](https://keshavsingh4522.github.io/) for complete background and contact.
-- :boom: awesome octoprofile : [Max Situ](https://octoprofile.now.sh/user?id=keshavsingh4522)
+- :boom: awesome octoprofile : [Max Situ]([https://octoprofile.now.sh/user?id=keshavsingh4522](https://myoctoprofile.vercel.app/Max71804))
 <!-- - ⚡ Languages: **Python3 | SQL | HTML | CSS |** -->
 
 <br />
@@ -35,7 +35,7 @@
 
 <br />
 
-![](https://github-stats-alpha.vercel.app/api?username=keshavsingh4522&cc=22272e&tc=37BCF6&ic=fff&bc=0000)
+![]![Max71804's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Max71804&theme=vue-dark&hide_border=true)
 
 ## Profiles
 <!-- start work experience section -->

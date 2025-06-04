@@ -35,7 +35,7 @@
 
 <br />
 
-![]![Max71804's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Max71804&theme=vue-dark&hide_border=true)
+![Max71804's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Max71804&theme=vue-dark&hide_border=true)
 
 ## Profiles
 <!-- start work experience section -->

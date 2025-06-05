@@ -117,9 +117,9 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href='https://todo-codewithkeshav.herokuapp.com'>Todo-App</a></td>
-      <td>Python</td>
-      <td>this is my first flask project</td>
+      <td><a href='https://max71804.github.io/Ti_Calculator/'>Ti-Scientific Calculator</a></td>
+      <td>Html</td>
+      <td>This is my first html project</td>
     </tr>
     <tr>
       <td><a href='https://keshavsingh4522.github.io/Projects/Calculator/'>Calculator</a></td>
